@@ -1,0 +1,22 @@
+﻿  Source.cpp
+c:\users\224801\desktop\mo_lab_1_2_minirar\mo_lab_1_2\mo_lab_1_2\header.h(8): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\224801\desktop\mo_lab_1_2_minirar\mo_lab_1_2\mo_lab_1_2\header.h(18): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\224801\desktop\mo_lab_1_2_minirar\mo_lab_1_2\mo_lab_1_2\header.h(28): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\224801\desktop\mo_lab_1_2_minirar\mo_lab_1_2\mo_lab_1_2\header.h(38): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\224801\desktop\mo_lab_1_2_minirar\mo_lab_1_2\mo_lab_1_2\header.h(48): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\224801\desktop\mo_lab_1_2_minirar\mo_lab_1_2\mo_lab_1_2\functions.h(129): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\224801\desktop\mo_lab_1_2_minirar\mo_lab_1_2\mo_lab_1_2\nfunctions.h(17): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\224801\desktop\mo_lab_1_2_minirar\mo_lab_1_2\mo_lab_1_2\nfunctions.h(32): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\224801\desktop\mo_lab_1_2_minirar\mo_lab_1_2\mo_lab_1_2\nfunctions.h(78): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\224801\desktop\mo_lab_1_2_minirar\mo_lab_1_2\mo_lab_1_2\nfunctions.h(79): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\224801\desktop\mo_lab_1_2_minirar\mo_lab_1_2\mo_lab_1_2\nfunctions.h(116): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\224801\desktop\mo_lab_1_2_minirar\mo_lab_1_2\mo_lab_1_2\nfunctions.h(117): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\224801\desktop\mo_lab_1_2_minirar\mo_lab_1_2\mo_lab_1_2\nfunctions.h(149): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\224801\desktop\mo_lab_1_2_minirar\mo_lab_1_2\mo_lab_1_2\nfunctions.h(158): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\224801\desktop\mo_lab_1_2_minirar\mo_lab_1_2\mo_lab_1_2\grad.h(19): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  50 of 157 functions (31.8%) were compiled, the rest were copied from previous compilation.
+    16 functions were new in current compilation
+    25 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  MO_Lab_1_2.vcxproj -> C:\Users\224801\Desktop\MO_Lab_1_2_minirar\MO_Lab_1_2\Release\MO_Lab_1_2.exe
